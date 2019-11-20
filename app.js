@@ -1,1 +1,1 @@
-console.log('hola')
+console.log('este es un nuevo mensaje por consola')
